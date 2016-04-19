@@ -1,0 +1,139 @@
+*/*{outline: 1px solid rgba(255,0,0,0.1);}*/
+header p{
+	margin-top: 30px;
+}
+header input{
+	float: right;
+	width: 200px;
+	height: 40px;
+}
+hr{
+	width: 200px;
+}
+.logo img{
+	height: 50px;
+}
+.hero{
+	background-size: contain;
+	background-color: #333;
+	background-image: url("../img/banner.jpg");
+	background-repeat: no-repeat;
+	color: white;
+	font-size: 15px;
+	padding-top: 10px;
+	padding-bottom: 40px;
+}
+.icono img{
+	margin-top: 180px;
+	margin-left: 170px;
+}
+.cartelera{
+	background-color: #FACC2E;
+	max-width: 100%;
+}
+.cartelera img{
+	max-width: 100%;
+	height: 240px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.estrenos{
+	padding: 10px;
+}
+.estrenos img{
+	margin: 10px;
+}
+.uno{
+	border-radius: 5px;
+	border:2px solid green;
+	padding: 2px;
+	color: green;
+	width: 70px;
+	margin-right: 8px;
+	text-align: center;
+}
+.hero h1{
+	margin-bottom: 10px;
+}
+.hero hr{
+	margin-bottom: 10px;
+}
+.hero p{
+	margin-bottom: 10px;
+}
+.coment-peli{
+	margin-top: 10px;
+}
+.boton{
+	color: white;
+	text-align: center;
+	border-radius: 5px;
+	margin-top: 10px;
+	margin-bottom: 5px;
+	width: 140px;
+	height: 30px;
+	padding-top: 10px;
+	padding-bottom: 20px;
+}
+.watch{
+	background-color: #FACC2E;
+}
+.book{
+	background-color: #B45F04;
+}
+.info p{
+	margin-top: 20px;
+	font-size: 30px;
+	color: #A4A4A4;
+}
+.info button{
+	color: white;
+	text-align: center;
+	border-radius: 5px;
+	margin-bottom: 15px;
+	background-color: #B45F04;
+	width: 140px;
+	height: 50px;
+}
+.info .rojo{
+	color:#B45F04;
+	font-size: 15px;
+	margin-bottom: 50px;
+}
+.news{
+	margin-bottom: 15px;
+}
+.news h1{
+	font-size: 30px;
+	color: #A4A4A4;
+	margin-top:20px;
+	margin-bottom: 15px;
+}
+.news a{
+	text-decoration: none;
+	color: black;
+
+}
+.news p{
+	color: #D8D8D8;
+}
+.linea-dos{
+	width: 594px;
+	margin: 15px 0;
+	color: #D8D8D8;
+}
+.news h3{
+	color:  #FACC2E;
+}
+.pie-pagina{
+	padding-top: 20px;
+	color: #BDBDBD;	
+	background:#E6E6E6;
+}
+.ultimos{
+	margin-bottom: 25px;
+}
+.ultimo{
+	margin-bottom: 15px;
+	font-size: 10px;
+}
